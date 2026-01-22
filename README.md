@@ -47,7 +47,7 @@ The core logic of this application focuses on:
 
 ## ✍️ Author
 
-* **Your Name** - MOPURI SAIKUMAR REDDY
+* MOPURI SAIKUMAR REDDY
 * **Email** - saikumarmopuri8639@example.com
 
 ---
